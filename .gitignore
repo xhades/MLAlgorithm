@@ -103,3 +103,4 @@ ENV/
 # my ignore
 .idea/*
 .vscode/*
+.DS_Store
